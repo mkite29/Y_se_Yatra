@@ -1,4 +1,4 @@
-# railwayMKITE
+# YseYatra
 
 This is an C++ console graphics application by using oops and openglut library.
 There is an interface in which you can do the following operations headstart with a number of operational list as you click on the run time interface on the console .
